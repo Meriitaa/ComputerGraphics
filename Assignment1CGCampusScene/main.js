@@ -124,12 +124,6 @@ for (let i = -25; i <= 25; i += 10) {
   makeLamp(i, -5);
 }
 
-// Lamps along Road 2 (slightly offset)
-// for (let i = -5; i <= 25; i += 10) {
-//   const x = 10 + i * 0.7;
-//   const z = 10 + i * 0.6;
-//   makeLamp(x, z);
-// }
 
 
 // Lamps along Road 2 (aligned with diagonal)
